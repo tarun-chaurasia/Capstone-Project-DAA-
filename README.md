@@ -1,5 +1,5 @@
 # Mini-Courier Planner
-Submitted by: Naveen Singh, Roll No: 2501350063
+Submitted by: Tarun Kumar Chaurasia, Roll No: 2501350067
 **Course:** Design & Analysis of Algorithms (ETCCDA302), K.R. Mangalam University
 **Language:** Python 3 (only `matplotlib` is needed, and only for the chart)
 
